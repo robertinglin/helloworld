@@ -1,5 +1,5 @@
 function test() {
-  console.log('Executing test function!!!!!!');
+  console.log('Executing test function!');
   try {
     // Add basic error handling
     return 'Test completed successfully';
