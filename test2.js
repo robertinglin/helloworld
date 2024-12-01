@@ -1,3 +1,3 @@
 function main() {
-  // Your code!xcsdea
+  // Your code
 }
